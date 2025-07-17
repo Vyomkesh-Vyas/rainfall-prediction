@@ -1,4 +1,3 @@
-# rainfall-prediction
 # 🌧️ Rainfall Prediction
 
 This project implements a linear model to analyze and predict rainfall using real-world dataset. It includes data loading, visualization, model training, and prediction, all performed within a Jupyter Notebook using Python's data science stack.
@@ -10,6 +9,7 @@ This project implements a linear model to analyze and predict rainfall using rea
 The notebook performs the following tasks:
 
 - 📥 Load rainfall dataset from CSV
+- 📊 Explore and visualize rainfall patterns
 - 🧹 Preprocess and split data into training and test sets
 - 🧠 Train linear model using `scikit-learn`
 - 🔮 Predict rainfall and evaluate model performance
@@ -46,3 +46,30 @@ The notebook performs the following tasks:
 
 ---
 
+## 📂 Project Structure
+
+Rainfall_Prediction/  
+├── Rainfall Prediction.ipynb  
+├── README.md  
+└── data/  
+
+---
+
+## 🚀 How to Run
+
+1. Clone the repository or download the notebook  
+2. Install required packages:
+   ```bash
+   pip install pandas matplotlib seaborn scikit-learn
+   ```
+3. Open the notebook:
+    jupyter notebook Rainfall\ Prediction.ipynb
+4. Run all cells to see the analysis and predictions.
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License – free to use and modify.
+
+---
