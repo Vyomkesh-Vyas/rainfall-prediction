@@ -48,10 +48,12 @@ The notebook performs the following tasks:
 
 ## 📂 Project Structure
 
+```bash
 Rainfall_Prediction/  
-├── Rainfall Prediction.ipynb  
-├── README.md  
-└── data/  
+├── Rainfall Prediction.ipynb  # Main analysis notebook
+├── README.md                  # Project documentation
+└── data/                      # Input dataset
+```
 
 ---
 
